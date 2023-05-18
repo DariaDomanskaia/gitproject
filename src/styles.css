@@ -1,11 +1,14 @@
-h1{
-    color: aquamarine;
-    background-color: #000;
-}
+
 
 
 
 div{
     background-color: #cb833cce;
     min-width: 1200px;
+}
+
+span{
+    color: red;
+
+    border: 1px solid blue;
 }
